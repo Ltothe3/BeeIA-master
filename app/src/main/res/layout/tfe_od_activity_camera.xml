@@ -45,7 +45,7 @@
             <ImageView
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:src="@drawable/composition1.png" />
+                android:src="@drawable/composition1" />
         </androidx.appcompat.widget.Toolbar>
 
     </RelativeLayout>
